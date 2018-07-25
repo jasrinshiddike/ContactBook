@@ -1,0 +1,39 @@
+<resources>
+    <string name="app_name">Contact Book</string>
+
+    <string name="phone_number1">0151432447</string>
+    <string name="email_no1">afsana@gmail.com</string>
+
+    <string name="phone_number2">01872345998</string>
+    <string name="email_no2">anika@gmail.com</string>
+
+    <string name="phone_number3">018784367219</string>
+    <string name="email_no3">jasrin@gmail.com</string>
+
+    <string name="phone_number4">0179239929</string>
+    <string name="email_no4">marjan@gmail.com</string>
+
+    <string name="phone_number5">0179967343</string>
+    <string name="email_no5">nadia@gmail.com</string>
+
+    <string name="phone_number6">0187758493</string>
+    <string name="email_no6">neepa@gmail.com</string>
+
+    <string name="phone_number7">0187848489439</string>
+    <string name="email_no7">sumee@gmail.com</string>
+
+    <string name="phone_number8">01878783489</string>
+    <string name="email_no8">suhee@gmail.com</string>
+
+    <string name="phone_number9">0159886690</string>
+    <string name="email_no9">tasnim@gmail.com</string>
+
+    <string name="phone_number10">0168765539</string>
+    <string name="email_no10">urbi@gmail.com</string>
+
+    <string name="phone_number11">018784389872</string>
+    <string name="email_no11">humi@gmail.com</string>
+
+    <string name="phone_number12">01876623789</string>
+    <string name="email_no12">reshmi@gmail.com</string>
+</resources>
